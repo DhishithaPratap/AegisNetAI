@@ -1,0 +1,12 @@
+{"src_ip": "81.133.120.101", "dst_ip": "201.110.126.64", "port": 22, "protocol": "TCP", "flag": "SYN"}
+{"src_ip": "52.42.150.126", "dst_ip": "139.182.233.94", "port": 443, "protocol": "TCP", "flag": "ACK"}
+{"src_ip": "246.54.232.137", "dst_ip": "173.141.163.224", "port": 443, "protocol": "TCP", "flag": "SYN"}
+{"src_ip": "180.120.121.132", "dst_ip": "54.248.233.173", "port": 443, "protocol": "TCP", "flag": "FIN"}
+{"src_ip": "57.58.31.40", "dst_ip": "233.16.124.122", "port": 80, "protocol": "TCP", "flag": "ACK"}
+{"src_ip": "182.56.4.142", "dst_ip": "163.46.107.39", "port": 22, "protocol": "TCP", "flag": "ACK"}
+{"src_ip": "14.241.236.226", "dst_ip": "29.236.88.127", "port": 53, "protocol": "TCP", "flag": "ACK"}
+{"src_ip": "183.108.125.50", "dst_ip": "103.139.108.140", "port": 53, "protocol": "TCP", "flag": "FIN"}
+{"src_ip": "43.177.219.73", "dst_ip": "218.48.129.196", "port": 80, "protocol": "TCP", "flag": "SYN"}
+{"src_ip": "245.67.206.171", "dst_ip": "200.45.148.46", "port": 80, "protocol": "TCP", "flag": "ACK"}
+{"src_ip": "156.150.99.29", "dst_ip": "217.174.33.183", "port": 80, "protocol": "TCP", "flag": "SYN"}
+{"src_ip": "217.200.244.113", "dst_ip": "238.38.113.34", "port": 53, "protocol": "TCP", "flag": "SYN"}

@@ -1,0 +1,5 @@
+{"src_ip": "192.168.1.139", "query": "google.secure-portal-secure.live", "record_type": "A", "protocol": "DoH", "category": "Fake Authentication URL"}
+{"src_ip": "192.168.1.89", "query": "appe.org", "record_type": "MX", "protocol": "DNS", "category": "Typo-Squatting Domain"}
+{"src_ip": "121.163.54.250", "query": "micros0ft.co", "record_type": "TXT", "protocol": "DoH", "category": "Typo-Squatting Domain"}
+{"src_ip": "192.168.1.159", "query": "twitter-billing-security.ru", "record_type": "TXT", "protocol": "DoH", "category": "Phishing Domain"}
+{"src_ip": "130.68.174.133", "query": "verify-twitter.info", "record_type": "A", "protocol": "DoT", "category": "Phishing Domain"}

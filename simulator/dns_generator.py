@@ -116,11 +116,13 @@ def generate_simulated_dns_log():
         "protocol": random.choice(["DNS", "DoH", "DoT"]),
         "category": category
     }
-
-# Generate a batch of dynamic examples to see all categories in action
 if __name__ == "__main__":
     print("--- Simulating 5 Random Dynamic DNS Events ---")
-    for _ in range(5):
-        event = generate_simulated_dns_log()
-        print(json.dumps(event, indent=4))
-        print("-" * 46)
+
+    with open("data/dns_logs.json", "a") as file:
+        for _ in range(5):
+            event = generate_simulated_dns_log()
+
+            file.write(json.dumps(event) + "\n")
+            print(json.dumps(event, indent=4))
+            print("-" * 46)

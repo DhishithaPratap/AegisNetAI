@@ -25,4 +25,8 @@ packet = {
 }
 
 # Print packet nicely
+#print(json.dumps(packet, indent=4))
+with open("data/tcp_logs.json", "a") as file:
+    file.write(json.dumps(packet) + "\n")
+
 print(json.dumps(packet, indent=4))

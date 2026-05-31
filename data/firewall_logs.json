@@ -1,0 +1,2 @@
+{"src_ip": "192.168.184.53", "dst_ip": "102.13.237.110", "port": 80, "protocol": "TCP", "action": "ALLOW"}
+{"src_ip": "192.168.66.58", "dst_ip": "29.89.35.247", "port": 80, "protocol": "TCP", "action": "DENY"}
