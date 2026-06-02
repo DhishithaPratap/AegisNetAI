@@ -1,0 +1,7 @@
+[
+    {
+        "src_ip": "10.0.0.5",
+        "incident_type": "RECON_ACTIVITY",
+        "risk_score": 55
+    }
+]

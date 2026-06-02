@@ -1,0 +1,5 @@
+RISK_SCORES = {
+    "PORT_SCAN": 30,
+    "SUSPICIOUS_DOMAIN": 25,
+    "BRUTE_FORCE": 40
+}
