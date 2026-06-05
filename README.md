@@ -40,3 +40,12 @@ Firewall log analysis
 SIEM correlation engine
 AI anomaly detection
 Security dashboard
+
+## AI Anomaly Detection
+
+Implemented:
+
+- Feature Engineering
+- Isolation Forest
+- Anomaly Detection
+- AI Security Findings
