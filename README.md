@@ -1,4 +1,4 @@
-AegisNet AI is an AI-enhanced network security monitoring and intrusion detection platform built using Python.
+TDFISI AI is an AI-enhanced network security monitoring and intrusion detection platform built using Python.
 
 The project simulates:
 
